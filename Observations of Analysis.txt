@@ -1,0 +1,4 @@
+#1 - The vast majority of purchasers are male (484 at 84%).
+#2 - Females, on average, spend more than men by 19 cents per purchase.
+#3 - The age groups that constitute the vast majority of in-game purchases
+     are 15-19 and 20-24.
